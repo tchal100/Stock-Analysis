@@ -39,6 +39,10 @@ which maintained their profitable performance.
 DQ which had the greatest performance in 2017 had a -62.6% return in 2018. By looking at a side
 by side comparison, there are several conclusions that can be drawn from this analysis. 
  
+ 
+ ![](Images/Allstocks2018.png)
+
+ 
 First, although TERP were not in the green and had the worst year by far in 2017, they 
 had a small growth of 2.2% in 2018, which made them the least versatile and long-term 
 potential profitable option. Secondly, because of the significant changes we saw in 
